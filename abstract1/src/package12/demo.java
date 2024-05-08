@@ -13,6 +13,7 @@ public abstract class demo {
 	 abstract void alpha();
 	 abstract void alpha(int g);
 	 abstract void alpha4546();
+	 //abstract void alpha4546();
 	 
 	 
 		
