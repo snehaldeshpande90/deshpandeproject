@@ -8,6 +8,7 @@ public abstract class demo {
 	void beta()
 	{
 		System.out.println("hello");//new branch trial
+		System.out.println("hello");//new branch trial
 	}
 
 	 abstract void alpha();
