@@ -7,7 +7,7 @@ public abstract class demo {
 	}
 	void beta()
 	{
-		System.out.println("hello");
+		System.out.println("hello");//
 	}
 
 	 abstract void alpha();
